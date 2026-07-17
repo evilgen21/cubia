@@ -2,7 +2,7 @@
 Добро пожаловать в Cubia: Color Puzzle — увлекательную логическую игру, где каждый ход имеет значение! Управляйте цветными кубами, раскрашивайте плитки, обходите препятствия и находите единственно верное решение. Простые правила быстро становятся сложными испытаниями, которые заставят продумывать стратегию на несколько шагов вперед.
 Если вы любите логические игры, головоломки, пазлы, задачи на мышление и игры, развивающие внимание, Cubia станет отличным выбором.
 
-<img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-2.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-4.jpg" width="194" height="420"><img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-5.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/wordQ/blob/main/wordq%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9-6.jpg" width="194" height="420">
+<img src="https://github.com/evilgen21/cubia/blob/main/5Cubia%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"> <img src="https://github.com/evilgen21/cubia/blob/main/3Cubia%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420"><img src="https://github.com/evilgen21/cubia/blob/main/4Cubia%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg?raw=true" width="194" height="420"> <img src="https://github.com/evilgen21/cubia/blob/main/6Cubia%20screen%201290x2796%20iphone%2015%20Pro%20Max%206.9.jpg" width="194" height="420">
 
 🌍 Мультиязычная поддержка
 Полная локализация на 6 языках:
